@@ -8,6 +8,7 @@ Created a csv file with the hashtable.
 Created GUI to connect to a database.
 
 ----How to run-----
+
 java CS370Project
 
 can include flag parameters 
@@ -18,6 +19,7 @@ can include flag parameters
 -v (result)
 
 -----GUIs---------
+
 input file gui - uses Jchooser to open a txt file
 output file gui - uses Jchoose to open a txt file
 AdvSearch- used to get parameters to build a string to mimic goodwills adv search.
